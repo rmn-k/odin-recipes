@@ -1,0 +1,1 @@
+Current project is about creating a basic HTML website.
